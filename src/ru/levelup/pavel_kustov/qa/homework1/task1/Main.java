@@ -3,7 +3,7 @@ package ru.levelup.pavel_kustov.qa.homework1.task1;
 /**
  *  Class show answer on 1st home work
  *  tasks 1:
- *  bubble sort, binary search, revers array, random filling array
+ *  bubble sort
  *
  * @version 1.0
  * @author  Kustov Pavel
